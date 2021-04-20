@@ -1,0 +1,7 @@
+class A:
+    a=1
+    def ca():
+        return'From Parent class'
+print(obj.ca())
+print(obj.cb())
+print(obj.cc())
